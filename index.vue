@@ -1,5 +1,7 @@
 <template>
-  <div class='index'></div>
+  <div class='index'>
+    切换到 vues 分支
+  </div>
 </template>
 
 <script>
